@@ -1,8 +1,8 @@
 <?php
-$length = 5;
+$length = 10;
 $area = $length * $length;
 echo $area;
-$heigh = 10;
-$with = 5;
+$heigh = 20;
+$with = 10;
 echo $heigh * $with;
 ?>
